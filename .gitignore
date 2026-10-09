@@ -1,0 +1,6 @@
+venv/
+*.mp4
+*.srt
+*.txt
+__pycache__/
+.DS_Store
